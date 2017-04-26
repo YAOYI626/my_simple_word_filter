@@ -1,3 +1,4 @@
+# 基于结巴分词和set，速度较慢。
 # coding : utf-8
 import os
 import jieba
